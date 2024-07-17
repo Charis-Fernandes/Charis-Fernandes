@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
-<h1 align="center">Hi 👋, I'm Charis Fernandes</h1>
-<h3 align="center">An I.T student who is just likes Tech</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F9Lwu&psig=AOvVaw1xbWWzdlQBaHaXHvdM16o5&ust=1721318591218000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDQw8u5rocDFQAAAAAdAAAAABBn")
+![MasterHead](https://png.pngtree.com/background/20210710/original/pngtree-full-anime-style-technology-city-architecture-background-picture-image_968368.jpg)
+<h1 align="center">Hi 👋, Charis Fernande</h1>
+<h3 align="center">An I.T Student who likes Tech</h3>
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/aJks9FZujpYAAAAM/retrowave-tech.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charis-fernandes&label=Profile%20views&color=0e75b6&style=flat" alt="charis-fernandes" /> </p>
 

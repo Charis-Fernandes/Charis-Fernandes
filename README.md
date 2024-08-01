@@ -1,5 +1,5 @@
 ![MasterHead](https://png.pngtree.com/background/20210710/original/pngtree-full-anime-style-technology-city-architecture-background-picture-image_968368.jpg)
-<h1 align="center">Hi 👋, Charis Fernande</h1>
+<h1 align="center">Hi 👋, Charis Fernandes</h1>
 <h3 align="center">An I.T Student who likes Tech</h3>
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/aJks9FZujpYAAAAM/retrowave-tech.gif">
 

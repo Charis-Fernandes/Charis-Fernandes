@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development, Computer Networks and Cybersecurity**
 
-- 👨‍💻 My portfolio [Click!]([charis-fernandes.github.io/Portfolio/Resources](https://charis-fernandes.github.io/Portfolio/))
+- 👨‍💻 My portfolio [Click!](https://charis-fernandes.github.io/Portfolio)
 
 - 📫 How to reach me **fernandescharis097@gmail.com**
 

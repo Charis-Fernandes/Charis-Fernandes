@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charis-fernandes&label=Profile%20views&color=0e75b6&style=flat" alt="charis-fernandes" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Computer Networks and Cybersecurity**
+- 🌱 Currently into **AI, Web Development and Computer Networks**
 
 - 👨‍💻 My portfolio [Click!](https://charis-fernandes.github.io/Portfolio)
 
